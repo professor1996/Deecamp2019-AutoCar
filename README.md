@@ -1,6 +1,6 @@
 # Description
 
-An internship in Sinnovation Ventures AI institute, Nanjing, China
+An internship in Sinnovation Ventures AI institute, Nanjing, China   
 
 # Mobile Robot Platform - Turtlebot3
 ![image](https://github.com/professor1996/Indoor-Autocar-IF/blob/master/demo/1.png)
